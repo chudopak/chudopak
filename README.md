@@ -1,6 +1,6 @@
 ### Connect with me:
 
-[<img align="left" alt="chudopak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="chudopak | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />][linkedin]
 [<img align="left" alt="chudopak | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />][telegram]
 [<img align="left" alt="chudopak | LinkedIn" width="22px" src="https://static.tildacdn.com/tild3463-3135-4335-a266-316361343437/Untitled-1-01.png" />][hh]
 
