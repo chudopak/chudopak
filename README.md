@@ -6,4 +6,4 @@
 
 [linkedin]: https://www.google.com
 [telegram]: https://t.me/pMarash
-[hh]: https://kazan.hh.ru/
+[hh]: https://kazan.hh.ru/resume/887d3bcbff08805cd10039ed1f446a626a7333
