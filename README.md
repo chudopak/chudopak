@@ -1,7 +1,7 @@
 ## Hey
 I'm **iOS developer** currently studying at *School 21*.
 
-### I Code On
+### I Code In
 <p>
   <!--  Swift  -->
   <a href="https://github.com/chudopak?tab=repositories&q=&type=&language=swift">
